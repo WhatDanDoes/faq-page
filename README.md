@@ -12,6 +12,12 @@ Download and execute server of your choice. E.g.:
 python -m SimpleHTTPServer
 ```
 
+Or,
+
+```
+python -m http.server
+```
+
 # Production
 
 ```
